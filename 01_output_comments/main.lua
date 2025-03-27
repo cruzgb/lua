@@ -6,4 +6,4 @@ print("Hello, World!")
 ]]
 -- prints text to the screen
 print("Hello, Juan! My name is Skyz.")
-print("Oi!")
+print('Oi!')
