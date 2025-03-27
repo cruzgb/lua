@@ -12,16 +12,16 @@ print("What is the value of a + 5?",a + 5)
 -- a + 5 = 7
 
 local name = "Skyz"
-local years = 16
-print("My name is " ..name.. ". I am ".. years .." years old. I have decided this name: " ..name.. ", because i like it.")
+local year = 16
+print("My name is " ..name.. ". I am ".. year .." years old. I have decided this name: " ..name.. ", because i like it.")
 
 print[[
 ]]
 
-local name = "Gabriel"
+local Name = "Gabriel"
 local surname = "Cruz"
 local full_name = "Gabriel Cruz"
-print(name .. " " .. surname) -- as aspas são apenas para saltar espaços
+print(Name .. " " .. surname) -- as aspas são apenas para saltar espaços
 
 print(full_name)
 
